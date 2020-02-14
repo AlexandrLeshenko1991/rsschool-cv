@@ -13,6 +13,11 @@ Right now I am mostly occupied with developing and supporting portals�
 * JS
 * React.js
 * MySql
+*  Php
+* Yii2
+* WordPress
+* GitHub
+* Linux
 
 
 ## Education
