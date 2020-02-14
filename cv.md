@@ -1,6 +1,12 @@
 # Alexandr Leshenko
 
 
+## Contacts:
+* E-mail:  leshenko.alexander1991@gmail.com 
+* Phone: 375(29) 248-68-50 
+* Telegram: 375(29) 248-68-50
+
+
 ## Summary
 Hello, At the moment I work for a company that is resident of the HTP Belarus (Hi-tech park). We use the LAMP stack and mainly use the yii2 framework in development.
 As I always try to find new opportunities to have more experience I think about a job change.
