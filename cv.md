@@ -1,10 +1,9 @@
 # Alexandr Leshenko
 
 
-## Contacts:
-* E-mail:  leshenko.alexander1991@gmail.com 
-* Phone: 375(29) 248-68-50 
-* Telegram: 375(29) 248-68-50
+### Contacts:
+> E-mail:leshenko.alexander1991@gmail.com 
+> Phone: 375(29) 248-68-50
 
 
 ## Summary
